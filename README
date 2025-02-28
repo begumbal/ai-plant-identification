@@ -1,0 +1,22 @@
+# 🌱 Plant Identification AI 🚀  
+
+This project is an **AI-based plant and herb identifier** that recognizes different plant species using image classification. It also provides information on **plant benefits and care instructions.**  
+
+## 🌟 Features  
+✔ **Upload an image** of a plant and get its name instantly.  
+✔ Provides **detailed information** about the plant (uses, benefits, care tips).  
+✔ Uses **Deep Learning (CNN)** for plant image recognition.  
+✔ **Pre-trained model on plant datasets** for high accuracy.  
+✔ Simple and user-friendly web interface (optional).  
+
+## 🔧 Technologies Used  
+- **Python, TensorFlow/Keras** (for deep learning model)  
+- **OpenCV** (for image processing)  
+- **Flask/FastAPI** (for web API - optional)  
+- **JavaScript & HTML/CSS** (for frontend - optional)  
+
+## 📌 Installation & Usage  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/begumbal/plant-identification-ai.git
+   cd plant-identification-ai
