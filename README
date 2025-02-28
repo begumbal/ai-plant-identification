@@ -14,9 +14,3 @@ This project is an **AI-based plant and herb identifier** that recognizes differ
 - **OpenCV** (for image processing)  
 - **Flask/FastAPI** (for web API - optional)  
 - **JavaScript & HTML/CSS** (for frontend - optional)  
-
-## 📌 Installation & Usage  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/begumbal/plant-identification-ai.git
-   cd plant-identification-ai
